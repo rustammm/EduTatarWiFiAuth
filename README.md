@@ -2,7 +2,7 @@
 edu.tatar.ru WiFi Authorization
 
 # Uses
-python 2.7
+**python 2.7**
 
 # Usage
 eduauth.py -u=username -p=password
